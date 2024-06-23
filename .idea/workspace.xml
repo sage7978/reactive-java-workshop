@@ -61,7 +61,7 @@
       <recent name="io.javabrains.reactiveworkshop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise2">
+  <component name="RunManager" selected="Application.Exercise3">
     <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise1" />
       <module name="reactive-example" />
@@ -88,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise7" />
+    <configuration name="Exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise3" />
       <module name="reactive-example" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise8" />
+    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise7" />
       <module name="reactive-example" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise3" />
         <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.Exercise7" />
         <item itemvalue="Application.Exercise9" />
-        <item itemvalue="Application.Exercise8" />
       </list>
     </recent_temporary>
   </component>
