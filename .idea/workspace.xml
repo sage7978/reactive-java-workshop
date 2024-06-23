@@ -50,6 +50,7 @@
   "keyToString": {
     "Application.Exercise1.executor": "Run",
     "Application.Exercise2.executor": "Run",
+    "Application.Exercise3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
